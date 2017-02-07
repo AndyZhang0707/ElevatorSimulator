@@ -1,4 +1,4 @@
-package io.zhang.andy;
+package io.zhang.andy.elevator;
 
 /**
  * @{link DockTask} represents tasks for elevators to dock.
